@@ -13,5 +13,5 @@
   },
   "keywords": [ "ftp", "client", "transfer" ],
   "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/node-ftp/raw/master/LICENSE" } ],
-  "repository" : { "type": "git", "url": "http://github.com/mscdex/node-ftp.git" }
+  "repository" : { "type": "git", "url": "http://github.com/justinfuerth/node-ftp.git" }
 }
